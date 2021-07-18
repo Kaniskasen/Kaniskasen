@@ -18,8 +18,6 @@ I have more than 17 years of experience in IT system solution development & supp
 
 I am well-versed with most of the modern paradigms, practices and methodologies and cutting-edge technologies & trends (Such as RUP/Agile-XP,UML, DDD-RDD, Analysis Patterns, Architectural Patterns & Pattern languages , Design Patterns, OOP-OOAD, SOLID and GRASP)
 
-Please visit the URL to view my full profile at Linked-IN:
-www.linkedin.com/in/kaniska-sen-8b99a0211
 
 Thanks & regards,
 Kaniska
