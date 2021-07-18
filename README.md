@@ -13,6 +13,7 @@ Hi,
 I am kaniska, an experienced Technical Solution Architect and a seasoned full-stack developer/programmer.
 
 At present working as an IT consultant (Senior Solution Architect) at Tech Mahindra India Ltd. 
+(https://www.techmahindra.com/en-in/?f=2041109097)
 
 I have more than 17 years of experience in IT system solution development & support on Microsoft .NET technology stack (C#,VB,COM/DCOM/COM+, ASP.NET,.NET Core, MVC, Java script, Angular-Js, SOA- Web Services, WCF,XML,SOAP ) & SQL databases like SQL Server/oracle. 
 
